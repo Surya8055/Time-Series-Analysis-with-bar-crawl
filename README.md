@@ -33,7 +33,7 @@
 
 <h2>📥 Installation & Usage</h2>
 <p>Clone the repository and install the required dependencies:</p>
-<pre><code>git clone https://github.com/your-repo/time-series-bar-crawl.git
+<pre><code>git clone https://github.com/Surya8055/Time-Series-Analysis-with-bar-crawl.git
 cd time-series-bar-crawl
 pip install -r requirements.txt</code></pre>
 <p>Run the Jupyter Notebook:</p>
