@@ -45,4 +45,4 @@ pip install -r requirements.txt</code></pre>
 📍 Boston, MA, USA | 🏫 MS in Data Analytics Engineering @ Northeastern University</p>
 
 <h2>📜 License</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>This project, authored by Surya Vinay Kumar, emphasizes originality and academic integrity. Any form of plagiarism is strictly prohibited. Proper credits and citations must be included whenever referencing or utilizing this project to uphold ethical standards and acknowledge the author's contributions.</p>
