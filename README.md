@@ -3,6 +3,9 @@
 <h2>📌 Project Overview</h2>
 <p>This project focuses on time series analysis using the "Bar Crawl" dataset. It involves preprocessing, exploratory data analysis (EDA), and implementing machine learning models to forecast trends and patterns. The notebook provides insights into data trends and applies statistical and ML techniques for forecasting.</p>
 
+![image](https://github.com/user-attachments/assets/43161fe2-5bbb-4225-8486-be2850313de6)
+
+
 <h2>📂 Project Structure</h2>
 <ul>
   <li><strong>data/</strong> - Contains the dataset used for analysis.</li>
