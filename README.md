@@ -38,7 +38,6 @@
 <p>Clone the repository and install the required dependencies:</p>
 <pre><code>git clone https://github.com/Surya8055/Time-Series-Analysis-with-bar-crawl.git
 cd time-series-bar-crawl
-pip install -r requirements.txt</code></pre>
 <p>Run the Jupyter Notebook:</p>
 <pre><code>jupyter notebook notebooks/Time_Series_Analysis_with_bar_crawl.ipynb</code></pre>
 
