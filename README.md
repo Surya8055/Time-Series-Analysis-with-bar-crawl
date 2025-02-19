@@ -32,12 +32,15 @@
 </ul>
 
 <h2>📊 Results & Insights</h2>
-<p>Key insights from the time series analysis and forecasting results will be documented here.</p>
+<p>Key insights from the time series analysis and forecasting results will be documented here. 
+This section will include trends, anomalies, and predictive accuracy assessments based on the implemented models.</p>
 
 <h2>📥 Installation & Usage</h2>
 <p>Clone the repository and install the required dependencies:</p>
 <pre><code>git clone https://github.com/Surya8055/Time-Series-Analysis-with-bar-crawl.git
 cd time-series-bar-crawl
+</code></pre>
+
 <p>Run the Jupyter Notebook:</p>
 <pre><code>jupyter notebook notebooks/Time_Series_Analysis_with_bar_crawl.ipynb</code></pre>
 
@@ -47,4 +50,5 @@ cd time-series-bar-crawl
 📍 Boston, MA, USA | 🏫 MS in Data Analytics Engineering @ Northeastern University</p>
 
 <h2>📜 License</h2>
-<p>This project, authored by Surya Vinay Kumar, emphasizes originality and academic integrity. Any form of plagiarism is strictly prohibited. Proper credits and citations must be included whenever referencing or utilizing this project to uphold ethical standards and acknowledge the author's contributions.</p>
+<p>This project, authored by <strong>Surya Vinay Kumar</strong>, emphasizes originality and academic integrity. 
+Any form of plagiarism is strictly prohibited. Proper credits and citations must be included whenever referencing or utilizing this project to uphold ethical standards and acknowledge the author's contributions.</p>
